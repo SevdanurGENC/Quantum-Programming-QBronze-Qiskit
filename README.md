@@ -2,3 +2,6 @@
 Tutorials and programming exercises for learning Quantum Computing by Qiskit.
 
 ![image](https://user-images.githubusercontent.com/5441882/168216424-090069d4-861b-43b2-ba4d-72d0596ea865.png)
+
+![image](https://user-images.githubusercontent.com/5441882/168216460-d58eea8a-82b0-4036-a7fb-c7edad72bd0f.png)
+
