@@ -5,3 +5,4 @@ Tutorials and programming exercises for learning Quantum Computing by Qiskit.
 
 ![image](https://user-images.githubusercontent.com/5441882/168216460-d58eea8a-82b0-4036-a7fb-c7edad72bd0f.png)
 
+Ders Kayitlari : https://drive.google.com/drive/folders/1cfDb4uJXYi8oSC0dCeynz1sNc-eeqW-b
