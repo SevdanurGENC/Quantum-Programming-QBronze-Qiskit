@@ -8,3 +8,6 @@ Tutorials and programming exercises for learning Quantum Computing by Qiskit.
 Ders Kayitlari : https://drive.google.com/drive/folders/1cfDb4uJXYi8oSC0dCeynz1sNc-eeqW-b
 
 Ders Dokumanlari : https://gitlab.com/qworld/bronze-qiskit
+
+
+![QBronze83_diplomas-44-1](https://user-images.githubusercontent.com/5441882/178160925-f6f12326-8cfe-490d-b946-1d448ce9e001.jpg)
